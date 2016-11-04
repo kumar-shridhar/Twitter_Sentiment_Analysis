@@ -1,6 +1,6 @@
 # Twitter_Sentiment_Analysis
 
-Analyse Twitter sentiments on the tweets. 
+Every second thousands of tweets are being tweeted on Twitter. Analysis of sentiment of tweets is done to find whether the tweets have positive sentiments associated with it or negative sentiments associated.
 
 # Steps:
 
